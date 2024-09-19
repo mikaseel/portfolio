@@ -21,7 +21,7 @@ repository               : "mikaeel.github.io/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpeg"
+  avatar           : "profile.jpeg"
   name             : "Leesa Park"
   bio              : "Data Scientist / Data Analyst"
   location         : "Tacoma, WA"
