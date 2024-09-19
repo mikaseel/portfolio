@@ -12,9 +12,9 @@ title                    : "Leesa's Homepage"
 title_separator          : "-"
 name                     : &name "Leesa Park"
 description              : &description "personal description"
-url                      : https://mikaseel.github.io/leesapark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mikaseel.github.io/portfolio # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mikaeel.github.io/leesapark.github.io"
+repository               : "mikaeel.github.io/portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
