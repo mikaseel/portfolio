@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Leesa Park"
+title                    : "Leesa's Homepage"
 title_separator          : "-"
 name                     : &name "Leesa Park"
 description              : &description "personal description"
