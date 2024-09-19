@@ -9,7 +9,8 @@ main:
     url: /cv/
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://github.com/mikaseel/portfolio/tree/main/portfolio
+    # url: /portfolio/
 
   # - title: "Publications"
   #   url: /publications/
