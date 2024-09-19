@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I’m an aspiring data scientist passionate about leveraging advanced data analysis, machine learning, and statistical modeling to drive improvements in business processes and product experiences. I believe in the power of data-driven insights to solve complex challenges and make impactful decisions.
 
 I’m interested in exploring data science roles, especially in industries where innovation and creativity drive key decisions. Currently, I'm focused on projects involving predictive modeling, A/B testing, and building intuitive data visualizations to communicate findings effectively.
