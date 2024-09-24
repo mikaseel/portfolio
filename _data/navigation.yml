@@ -7,7 +7,7 @@
 main:
   - title: "CV/Resume"
     # url: /files/Resume.pdf
-    url: /resume/
+    url: /cv/
 
   - title: "Portfolio"
     url: https://github.com/mikaseel/projects/tree/main/portfolio
