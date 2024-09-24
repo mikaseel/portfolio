@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+Objective
+======
+Passionate data scientist eager to apply advanced data analysis, machine learning, and statistical modeling to drive data-driven insights, optimize product monetization, and inform key business decisions, contributing to strategic growth and product efficiency 
+
+
+Technical Skills
+======
+* **Programming & Tools**: Python, R, SQL, NoSQL, MATLAB, SAS, Scikit-learn, TensorFlow, PyTorch, Java
+* **Data Science**: machine learning, Bayesian inference, A/B testing, predictive modeling
+* **Data Analysis & Visualization**: Tableau, PowerBI, Excel, data wrangling, ETL, EDA
+* **Big Data & Databases**: Relational and NoSQL databases, data pipelines, workflow automation
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Johns Hopkins Whiting School of Engineering**
+  * Master of Science, Data Science | GPA: 3.75 | August 2022—August 2024
+  *	**Data Science: Modeling and Analytics**
+    *	Developed expertise in the design and implementation of sophisticated data models integrating principles from AI, machine learning, and statistics. Proficient in identifying patterns and relationships within diverse data sets, employing intelligent algorithms, machine learning techniques, and statistical methods to create expressive models that reveal intrinsic patterns and insights.
+    *	Skilled in the comprehensive modeling process, from framework design to model evaluation and interpretation. Demonstrated ability to select appropriate model types, apply Python-based frameworks effectively, and represent outputs in an understandable and explainable manner.
+  *	**Bayesian Statistics**
+    *	Applied Bayesian inference techniques to estimate population parameters, evaluate estimation uncertainty, and solve decision theory problems by using the application of prior/posterior distributions, conjugate pairs, Bayesian prediction, and Monte Carlo and Gibbs sampling methods for real-world data analysis.
+  *	**Data Engineering Principles and Practice**
+    *	Utilized relational and NoSQL databases for data collection, transformation, and modeling for various data formats.
+    *	Utilized pipelines and workflow automation to move data into warehouses and data lakes with the conscious of data security, governance, and compliance.
+  *	**Theory of Machine Learning**
+    *	Explored machine learning algorithms and mathematical theories of linear models (regression and classification), anomaly detectors, tree-based methods, regularization, fully connected neural networks and convolutional neural networks using TensorFlow and PyTorch, and model assessment using Python
+  *	**Data Visualization**
+    *	Used Tableau, Microsoft PowerBI, Paraview, Python, and Jupyter Lab to create interactive visualizations for large datasets
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Bastyr University**
+  * Bachelor of Science, Integrated Human Biology | GPA: 3.69 | 2012—2014
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Fred Hutchinson Cancer Research Center**, Seattle, WA, Aug 2017 - Apr 2018
+  * Research Technician II - Kiem Lab
+  * Analyzed complex datasets to generate insights for HIV research, managing experimental data and protocols.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Center for Infectious Disease Research**, Seattle, WA, Feb 2015  -Feb 2017
+  * Research Technician I-II - Horton Lab
+  * Led HIV research projects, employing statistical and functional assays to derive insights from large datasets.
+  * Managed lab operations, ensuring data quality, compliance, and team training.
+  * Was an editorial board member to bridge the gap between scientists, administrations, and community.
