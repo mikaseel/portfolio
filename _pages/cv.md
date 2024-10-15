@@ -12,7 +12,7 @@ redirect_from:
 
 Objective
 ======
-Passionate data scientist eager to apply advanced data analysis, machine learning, and statistical modeling to drive data-driven insights, optimize product monetization, and inform key business decisions, contributing to strategic growth and product efficiency 
+Passionate data scientist eager to apply advanced data analysis, machine learning, engineering, and statistical modeling to drive data-driven insights, optimize product monetization, and inform key business decisions, contributing to strategic growth and product efficiency 
 
 
 Technical Skills
